@@ -1,0 +1,5 @@
+- 👋 Hi, I’m JJ
+- 👀 I’m interested in mechatronics, vehicles, and control systems
+- 🌱 I’m currently at the University of Pittsburgh pursing a bachelors in electrical engineering
+- 💞️ I’m looking to collaborate on anything. Experience in anything is experience in everything
+- 📫 Contact me at jjs229@pitt.edu
